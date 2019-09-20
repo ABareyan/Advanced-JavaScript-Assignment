@@ -1,6 +1,6 @@
 // console.log("I am here");
 
-
+// input actor name in terminal
 var Letter = function(actor) {
     this.actor = actor;
     this.isActorGuesse = false;
@@ -17,6 +17,7 @@ var Letter = function(actor) {
         }
     };
 
+    // chanmge boolean to true
     this.actorGuess = function(guess) {
         if (guess.toLowerCase() === this.actor.toLowerCase()) {
             this.isActorGuesse = true;
