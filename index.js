@@ -47,7 +47,7 @@ function guessPerson() {
         inquirer.prompt([
 
             {
-                name: "txt",
+                name: "text",
                 message: "Guess a letter",
                 validate: function(str) {
                     if (str.length != 1) {
@@ -60,7 +60,7 @@ function guessPerson() {
             }
 
         ]).then(function(answer) {
-            var guess = answer.txt;
+            var guess = answer.text;
             chosenActor.checkGues(guess);
 
             // if user type same letter next time
