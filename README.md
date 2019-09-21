@@ -1,3 +1,3 @@
 # Advanced-JavaScript-Assignment
 
-![Screen] (./screen/screen2.gif)
+![Screen](screen/screen2.gif)
