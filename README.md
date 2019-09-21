@@ -8,11 +8,11 @@
 
 ![Screen](screen/screen1.png)
 
-* If you guess the lette You can see CORRECT and the letter
+* If you guess the letter You can see CORRECT and the letter
 
 ![Screen](screen/screen2.png)
 
-* If you don't guess the lette You can see INCORRECT and guesses remaining (You have only 10)
+* If you don't guess the letter You can see INCORRECT and guesses remaining (You have only 10)
 
 ![Screen](screen/screen3.png)
 
