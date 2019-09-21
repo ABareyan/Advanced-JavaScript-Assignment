@@ -1,3 +1,5 @@
 # Advanced-JavaScript-Assignment
 
-![Screen](screen/screen2.gif)
+## Word Guess
+
+![Screen](screen/screen.gif)
